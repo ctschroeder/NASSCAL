@@ -1,0 +1,15 @@
+id,city,country,longitude,latitude,latlong,repository
+1,Atripe,Egypt,31.5384129,26.5007072,"26.5007072,31.5384129",White Monastery
+2,Cairo,Egypt,31.23018,30.00603,"30.00603,31.23018",Coptic Museum
+3,Paris,France,2.37594,48.83408,"48.83408, 2.37594",Bibliotheque Nationale de France
+4,Naples,Italy,14.24956,40.83619,"40.83619, 14.24956",Biblioteca Nazionale di Napoli
+5,Manchester,United Kingdom,-2.23633,53.46426,"53.46426, -2.23633",John Rylands Library
+6,Rome,Italy,12.45466,41.9042,"41.9042, 12.45466",Biblioteca Apostolica Vaticana
+7,Oxford,United Kingdom,-1.2545,51.75449,"51.75449, -1.2545",Bodleian Library
+8,London,United Kingdom,-0.1277,51.53,"51.5300,-0.1277",British Library
+9,Vienna,Austria,13.3666,48.2062,"48.2062,13.3666",Oesterreichische Nationalbibliothek
+10,Cairo,Egypt,31.2349,30.0333,"30.0333,31.2349",Institut francais d'archeologie orientale
+11,New York City,United States of America,-73.9814,40.7492,"40.7942,-73.9814",Pierpont Morgan Library
+12,Edfu,Egypt,32.8758,24.9792,"24.9792,32.8758",Edfu
+13,Fayyum,Egypt,30.8428,29.3084,"30.8428,29.3084",Fayyum
+14,Hermopolis,Egypt,30.803889,27.781389,"27.781389,30.803889",Hermopolis

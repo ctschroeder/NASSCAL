@@ -1,0 +1,181 @@
+id,country,city,languages,texts,repository,repository id#,city of origin (provenance),country of origin (provenance),note,NAASCAL URL,Image URL-ish
+1,Egypt,Aswan,Coptic,,Nubian Museum,Special Number 168,,,,http://www.nasscal.com/manuscripta-apocryphorum/aswan-nubian-museum-special-number-168/,
+2,Egypt,Cairo,Arabic,,Coptic Museum,6421(I),,,,http://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-6421i/,
+3,Egypt,Cairo,Arabic,,Coptic Museum,6539(D),,,,http://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-6539d/,
+4,Egypt,Cairo,Coptic,,Coptic Museum,4851,Nag Hammadi,Egypt,Nag Hammadi Codex III,http://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-4851/,
+5,Egypt,Cairo,Coptic,,Coptic Museum,10546,Nag Hammadi,Egypt,Nag Hammadi Codex VII,http://cairo%2C%20coptic%20museum%2C%20inv.%2010546%20%28nag%20hammadi%20codex%20vii%29/,
+6,Egypt,Cairo,Coptic,,Coptic Museum,10548,Nag Hammadi,Egypt,Nag Hammadi Codex V,http://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10548-nag-hammadi-codex-v/,
+7,Egypt,Cairo,Coptic,,Coptic Museum,10549,Nag Hammadi,Egypt,Nag Hammadi Codex VI,http://www.nasscal.com/manuscripta-apocryphorum/cairo-coptic-museum-inv-10549-nag-hammadi-codex-vi/,
+8,Egypt,Cairo,Greek,,Museum of Egyptian Antiquities,P. Cair. 10759,,,,http://www.nasscal.com/manuscripta-apocryphorum/cairo-museum-of-egyptian-antiquities-p-cair-10759/,
+9,Egypt,Mount Sinai,Arabic,,Saint Catharine's Monastery,ar. 539,,,,http://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-st-catharines-monastery-arab-539/,
+10,Egypt,Mount Sinai,Greek,,Saint Catharine's Monastery,gr. 432,,,,http://www.nasscal.com/mount-sinai-st-catherines-monastery-gr-432/,
+11,Egypt,Mount Sinai,Greek,,Saint Catharine's Monastery,gr. 453,,,,http://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-st-catherines-monastery-gr-453/,
+12,Egypt,Mount Sinai,Greek,,Saint Catharine's Monastery,gr. 497,,,,http://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-st-catherines-monastery-gr-497/,
+13,Egypt,Mount Sinai,Greek,,Saint Catharine's Monastery,gr. 532,,,,http://www.nasscal.com/manuscripta-apocryphorum/mount-sinai-st-catherines-monastery-gr-532/,
+14,Greece,Athens,Greek,,Ethnikê Bibliothêkê tês Hellados,gr. 1007,,,,http://www.nasscal.com/manuscripta-apocryphorum/athens-ethnike-bibliotheke-tes-hellados-gr-1007/,
+15,Germany,Berlin,Coptic,,"Ägyptisches Museum and Papyrussammlung, Staatliche Museen",P. 8502,,,,http://www.nasscal.com/manuscripta-apocryphorum/berlin-agyptisches-museum-and-papyrussammlung-staatliche-museen-p-8502/,
+16,Germany,Berlin,Old Nubian,,"Staatsbibliothek zu Berlin–Preussischer Kulturbesitz, Orientabteilung",Ms. orient. quart. 1020,,,,http://www.nasscal.com/manuscripta-apocryphorum/staatsbibliothek-zu-berlin-preussischer-kulturbesitz-orientabteilung-ms-orient-quart-1020/,
+17,Germany,Berlin,Syriac,,Staatsbibliothek zu Berlin,Or. Oct. 1130,,,,http://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-or-oct-1130/,
+18,Germany,Berlin,Syriac,,Staatsbibliothek zu Berlin,Syr. 74,,,,http://www.nasscal.com/manuscripta-apocryphorum/berlin-staatsbibliothek-zu-berlin-syr-74/,
+19,United Kingdom,Birmingham,Arabic,,"Edgbaston, University of Birmingham",Mingana Arab. 94,,,"19, 20, 21, 22 are all one entry on Manuscripta Apocryphorum",https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-arab-94-130-148-149/,
+20,United Kingdom,Birmingham,Arabic,,"Edgbaston, University of Birmingham",Add. Arab. 130,,,"19, 20, 21, 22 are all one entry on Manuscripta Apocryphorum",https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-arab-94-130-148-149/,
+21,United Kingdom,Birmingham,Arabic,,"Edgbaston, University of Birmingham",Add. Arab. 148,,,"19, 20, 21, 22 are all one entry on Manuscripta Apocryphorum",https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-arab-94-130-148-149/,
+22,United Kingdom,Birmingham,Arabic,,"Edgbaston, University of Birmingham",Add. Arab. 149,,,"19, 20, 21, 22 are all one entry on Manuscripta Apocryphorum",https://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-arab-94-130-148-149/,
+23,United Kingdom,Birmingham,Syriac,,"Edgbaston, University of Birmingham",Mingana Syr. 5,,,,http://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-5/,
+24,United Kingdom,Birmingham,Syriac,,"Edgbaston, University of Birmingham",Mingana Syr. 48,,,,http://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-48/,
+25,United Kingdom,Birmingham,Syriac,,"Edgbaston, University of Birmingham",Mingana Syr. 105,,,,http://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-105/,
+26,United Kingdom,Birmingham,Syriac,,"Edgbaston, University of Birmingham",Mingana Syr. 184,,,,http://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-184/,
+27,United Kingdom,Birmingham,Syriac,,"Edgbaston, University of Birmingham",Mingana Syr. 560,,,,http://www.nasscal.com/manuscripta-apocryphorum/edgbaston-university-of-birmingham-mingana-syr-560/,
+28,United Kingdom,Cambridge,Greek,,Trinity College,O.8.33,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-trinity-college-o-8-33/,
+29,United Kingdom,Cambridge,Syriac,,Cambridge University Library,Add. 2001,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-cambridge-university-library-add-2001/,
+30,United Kingdom,Cambridge,Latin,,Corpus Christi College,66A,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-66a/,https://exhibits.stanford.edu/parker
+31,United Kingdom,Cambridge,Latin,,Corpus Christi College,196,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-196/,https://exhibits.stanford.edu/parker
+32,United Kingdom,Cambridge,Latin,,Corpus Christi College,275,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-275/,https://exhibits.stanford.edu/parker
+33,United Kingdom,Cambridge,Latin,,Corpus Christi College,288,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-288/,https://exhibits.stanford.edu/parker
+34,United Kingdom,Cambridge,Latin,,Corpus Christi College,323,,,,http://www.nasscal.com/cambridge-corpus-christi-college-323/,https://exhibits.stanford.edu/parker
+35,United Kingdom,Cambridge,Latin,,Corpus Christi College,385,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-385/,https://exhibits.stanford.edu/parker
+36,United Kingdom,Cambridge,Latin,,Corpus Christi College,404,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-404/,https://exhibits.stanford.edu/parker
+37,United Kingdom,Cambridge,Latin,,Corpus Christi College,441,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-441/,https://exhibits.stanford.edu/parker
+38,United Kingdom,Cambridge,Latin,,Corpus Christi College,500,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-corpus-christi-college-500/,https://exhibits.stanford.edu/parker
+39,Germany,Cologne,Greek,,Institut für Altertumskunde–University of Cologne,255,,,,http://www.nasscal.com/manuscripta-apocryphorum/cologne-institut-fur-altertumskunde-university-of-cologne-255/,
+40,Switzerland,Cologny,Greek,,Bibliotheca Bodmeriana,Bodmer Miscellaneous Codex,,,,http://www.nasscal.com/manuscripta-apocryphorum/cologny-bodmer-library-miscellaneous-codex/,
+41,France,Dijon,Greek,,Bibliothèque municipale,50,,,,http://www.nasscal.com/manuscripta-apocryphorum/dijon-bibliotheque-municipale-50/,"http://patrimoine.bm-dijon.fr/pleade/ead.html?id=FR212316101_collection_manuscrits#!{%22content%22:[%22FR212316101_collection_manuscrits_e0000011%22,true,%22%22]}"
+42,Germany,Dresden,Greek,,Sächsische Landesbibliothek,A 187,,,,http://xn--dresden%2C%20schsische%20landesbibliothek%2C%20a%20187-tre/,
+43,Germany,Einsiedeln,Latin,,Stiftsbibliothek,250 (382),,,,http://www.nasscal.com/manuscripta-apocryphorum/einsiedeln-stiftsbibliothek-250-382/,
+44,Switzerland,Engelberg,Latin,,Stiftsbibliothek,250 (382),,,,http://www.nasscal.com/manuscripta-apocryphorum/engelberg-stiftsbibliothek-2/,
+45,Germany,Göttingen,Syriac,,Universitätsbibliothek,Syr. 10,,,,http://www.nasscal.com/manuscripta-apocryphorum/gottingen-universitatsbibliothek-syr-10/,
+46,Austria,Graz,Latin,,Universitätsbibliothek,65,,,,http://www.nasscal.com/manuscripta-apocryphorum/graz-universitatsbibliothek-65/,
+47,Austria,Graz,Latin,,Universitätsbibliothek,83,,,,http://www.nasscal.com/manuscripta-apocryphorum/graz-universitatsbibliothek-83/,
+48,Germany,Heidelberg,Coptic,,Universität Heidelberg,inv. Kopt. 300,,,,http://www.nasscal.com/manuscripta-apocryphorum/heidelberg-universitat-heidelberg-inv-kopt-300301/,
+49,Germany,Heidelberg,Coptic,,Universität Heidelberg,inv. Kopt. 301,,,,http://www.nasscal.com/manuscripta-apocryphorum/heidelberg-universitat-heidelberg-inv-kopt-300301/,
+50,Germany,Karlsruhe,Latin,,Badische Landesbibliothek,Aug. 63,,,,http://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-aug-63/,
+51,Germany,Karlsruhe,Latin,,Badische Landesbibliothek,Fragment 94,,,,http://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-fragment-94/,
+52,Germany,Karlsruhe,Latin,,Badische Landesbibliothek,K 506,,,,http://www.nasscal.com/manuscripta-apocryphorum/karlsruhe-badische-landesbibliothek-k-506/,
+53,United Kingdom,London,Coptic,,British Library,Or. 6804,,,,https://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-6804/,https://www.bl.uk/manuscripts/
+54,United Kingdom,London,Coptic,,British Library,Or. 7025,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-or-7025/,https://www.bl.uk/manuscripts/
+55,United Kingdom,London,French,,British Library,Add. 10289,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10289/,https://www.bl.uk/manuscripts/
+56,United Kingdom,London,French,,British Library,Add. 89066/1,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-ms-89066-1/,https://www.bl.uk/manuscripts/
+57,United Kingdom,London,Greek,,British Library,Add. 10073,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-10073/,https://www.bl.uk/manuscripts/
+58,United Kingdom,London,Greek,,British Library,Add. 11870,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-11870/,https://www.bl.uk/manuscripts/
+59,United Kingdom,London,Greek,,British Library,Add. 26114,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-26114/,https://www.bl.uk/manuscripts/
+60,United Kingdom,London,Greek,,British Library,Add. 36654,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-36654/,https://www.bl.uk/manuscripts/
+61,United Kingdom,London,Greek,,British Library,Pap. 2041 (P. Oxy. VI 849),,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-pap-2041-p-oxy-vi-849/,https://www.bl.uk/manuscripts/
+62,United Kingdom,London,Latin,,British Library,Harley 2472,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-2472/,https://www.bl.uk/manuscripts/
+63,United Kingdom,London,Latin,,British Library,Harley 2729,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-2729/,https://www.bl.uk/manuscripts/
+64,United Kingdom,London,Latin,,British Library,Harley 3199,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-3199/,https://www.bl.uk/manuscripts/
+65,United Kingdom,London,Latin,,British Library,Harley 5556,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-harley-5556/,https://www.bl.uk/manuscripts/
+66,United Kingdom,London,Latin,,British Library,Royal 2.A.XX,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-royal-2-a-xx/,https://www.bl.uk/manuscripts/
+67,United Kingdom,London,Syriac,,British Library,Add. 12150,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-12150/,https://www.bl.uk/manuscripts/
+68,United Kingdom,London,Syriac,,British Library,Add. 14484,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-14484/,https://www.bl.uk/manuscripts/
+69,United Kingdom,London,Syriac,,British Library,Add. 17192,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-british-library-add-17192/,https://www.bl.uk/manuscripts/
+70,United Kingdom,London,Greek,,Highgate School,II.29,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-highgate-school-ii-29/,
+71,United Kingdom,London,Greek,,Lambeth Palace Library,1197,,,,http://www.nasscal.com/manuscripta-apocryphorum/london-lambeth-palace-library-1197/,
+72,United Kingdom,Manchester,Greek,,John Rylands Library,Gr. III 463 (P. Ryl. 463),,,,http://www.nasscal.com/manuscripta-apocryphorum/manchester-john-rylands-library-gr-iii-463-p-ryl-463/,
+73,Italy,Messina,Greek,,Biblioteca Universitaria,San Salvatoris 30,,,,http://www.nasscal.com/manuscripta-apocryphorum/messina-biblioteca-universitaria-san-salvatoris-30/,
+74,Italy,Milan,Arabic,,Biblioteca Ambrosiana,G 11 sup,,,,http://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-g-11-sup/,
+75,Italy,Milan,Latin,,Biblioteca Ambrosiana,E 53 inf.,,,,http://www.nasscal.com/manuscripta-apocryphorum/milan-biblioteca-ambrosiana-e-53-inf/,
+76,Germany,Munich,Latin,,Bayerische Staatsbibliothek,Clm 28189,,,,http://www.nasscal.com/manuscripta-apocryphorum/munich-bayerische-staatsbibliothek-clm-28189/,
+77,United Kingdom,Oxford,Greek,,Sackler Library,Papyrology Rooms 23 3B 12/E(1) (P. Oxy. L 3525),,,,http://www.nasscal.com/manuscripta-apocryphorum/oxford-sackler-library-papyrology-rooms-23-3b-12-e1-p-oxy-l-3525/,
+78,France,Paris,Greek,,Bibliothèque Nationale de France,Coislin 121,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-coislin-121/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+79,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 239,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-239/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+80,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 523,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-523/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+81,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 683,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-683/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+82,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 770,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-770/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+83,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 881,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-881/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+84,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 929,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-929/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+85,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 930,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-930/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+86,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 947,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-947/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+87,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 1176,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1176/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+88,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 1454,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1454/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+89,France,Paris,Greek,,Bibliothèque Nationale de France,gr. 1468,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-gr-1468/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+90,France,Paris,Latin,,Bibliothèque Nationale de France,lat. 5288,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5288/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+91,France,Paris,Latin,,Bibliothèque Nationale de France,lat. 5327,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-5327/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+92,France,Paris,Latin,,Bibliothèque Nationale de France,lat. 11867,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-11867/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+93,France,Paris,Latin,,Bibliothèque Nationale de France,lat. 13069,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-lat-13069/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+94,France,Paris,Latin,,Bibliothèque Nationale de France,lat. 14489,,,,http://xn--paris%2C%20bibliothque%20nationale%20de%20france-fge/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+95,France,Paris,Syriac,,Bibliothèque Nationale de France,syr. 179,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-biblotheque-nationale-de-france-syr-179/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+96,France,Paris,Syriac,,Bibliothèque Nationale de France,syr. 377,,,,http://www.nasscal.com/manuscripta-apocryphorum/paris-bibliotheque-nationale-de-france-syr-377/,http://gallica.bnf.fr/services/engine/search/advancedSearch/
+97,Italy,Rome,Greek,,Biblioteca Angelica,gr. 108 (B 2.2),,,,http://www.nasscal.com/manuscripta-apocryphorum/rome-biblioteca-angelica-gr-108-b-2-2/,https://manus.iccu.sbn.it/index.php
+98,Italy,Rome,Latin,,Biblioteca Apostolica Vaticana,Pal. lat. 220,,,,https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-pal-lat-220/,
+99,Italy,Rome,Latin,,Biblioteca Apostolica Vaticana,Pal. lat. 430,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-pal-lat-430/,
+100,Italy,Rome,Latin,,Biblioteca Apostolica Vaticana,Pal. lat. 619,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-pal-lat-619/,
+101,Italy,Rome,Latin,,Biblioteca Apostolica Vaticana,Reg. lat. 49,,,,https://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-reg-lat-49/,
+102,Italy,Rome,Latin,,Biblioteca Apostolica Vaticana,Reg. lat. 648,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-reg-lat-648/,
+103,Italy,Rome,Latin,,Biblioteca Apostolica Vaticana,Vat. lat. 348,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vat-lat-348/,
+104,Italy,Rome,Gar__n_,,Biblioteca Apostolica Vaticana,Vat. sir. 211,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vat-sir-211/,
+105,Italy,Rome,Gar__n_,,Biblioteca Apostolica Vaticana,Vat. sir. 212,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vat-sir-212/,
+106,Italy,Rome,Gar__n_,,Biblioteca Apostolica Vaticana,Vat. sir. 213,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vat-sir-213/,
+107,Italy,Rome,Greek,,Biblioteca Apostolica Vaticana,Ottob. gr. 1,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-ottob-gr-1/,
+108,Italy,Rome,Greek,,Biblioteca Apostolica Vaticana,Pal. gr. 364,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-pal-gr-364/,
+109,Italy,Rome,Greek,,Biblioteca Apostolica Vaticana,Vat. gr. 866,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vat-gr-866/,
+110,Italy,Rome,Greek,,Biblioteca Apostolica Vaticana,Vat. gr. 1989,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vat-gr-1989/,
+111,Italy,Rome,Greek,,Biblioteca Apostolica Vaticana,Vat. gr. 1982,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vaticana-vat-gr-1982/,
+112,Italy,Rome,Greek,,Biblioteca Apostolica Vaticana,Vat. gr. 1902,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-vat-gr-1902/,
+113,Italy,Rome,Syriac,,Biblioteca Apostolica Vaticana,Borgia sir. 128,,,,http://www.nasscal.com/e-clavis-scriptorium-apocryphorum/vatican-biblioteca-apostolica-borgia-syriac-128/,
+114,Italy,Rome,Syriac,,Biblioteca Apostolica Vaticana,Borg. sir. 148,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-borg-sir-148/,
+115,Italy,Rome,Syriac,,Biblioteca Apostolica Vaticana,Syr. 159,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-bibliotheca-apostolica-syr-159/,
+116,Italy,Rome,Syriac,,Biblioteca Apostolica Vaticana,Syr. 162,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-syr-162/,
+117,Italy,Rome,Syriac,,Biblioteca Apostolica Vaticana,Syr. 537,,,,http://www.nasscal.com/manuscripta-apocryphorum/vatican-biblioteca-apostolica-syr-537/,
+118,,Saint-Omer,Latin,,Bibliothèque municipale,MS 202,,,,http://www.nasscal.com/manuscripta-apocryphorum/saint-omer-bibliotheque-municipale-ms-202/,
+119,Austria,Vienna,Greek,,Österreichische Nationalbibliothek,Cod. Hist. gr. 91,,,,http://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-hist-gr-91/,
+120,Austria,Vienna,Italian,,Österreichische Nationalbibliothek,Cod. 2662,,,,http://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-2662/,
+121,Austria,Vienna,Latin,,Österreichische Nationalbibliothek,Cod. 550,,,,http://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-550/,
+122,Austria,Vienna,Latin,,Österreichische Nationalbibliothek,Cod. 4753,,,,http://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-4753/,
+123,Austria,Vienna,Latin,,Österreichische Nationalbibliothek,Cod. 13707,,,,http://www.nasscal.com/manuscripta-apocryphorum/vienna-osterreichische-nationalbibliothek-cod-13707/,
+124,Germany,Weinar,Greek,,"Herzogin Anna Amalia Bibliothek,",Q.729,,,,http://www.nasscal.com/manuscripta-apocryphorum/weimar-herzogin-anna-amalia-bibliothek-q-729/,https://haab-digital.klassik-stiftung.de/viewer
+125,Germany,Würzburg,Latin,,Universitätsbibliothek,M.p.th.f. 28,,,,http://www.nasscal.com/manuscripta-apocryphorum/wurzburg-universitatsbibliothek-m-p-th-f-28/,http://libri-kiliani.eu/
+126,Bulgaria,Sofia,Greek,,C’rkovno-istori_eski i archiven Institut,881,,,,http://www.nasscal.com/manuscripta-apocryphorum/sofia-crkovno-istoriceski-i-archiven-institut-881/,
+127,Canada,Toronto,Latin,,Thomas Fisher Rare Book Library,45 frags. 24-25,,,,https://fishercollections.library.utoronto.ca/islandora/object/fisher21%3A94,
+128,India,Trichur,Syriac,,Chaldean Syrian Church,Syr. 9,,,,http://www.nasscal.com/manuscripta-apocryphorum/trichur-chaldean-syrian-church-9/,
+129,Iran,Tehran,Syriac,,Chaldean Church of St. Joseph,8,,,,http://www.nasscal.com/manuscripta-apocryphorum/tehran-chaldean-church-of-st-joseph-8/,
+130,Iraq,Mosul,Syriac,,Mar Behnam Monastery,Sony 20,,,,http://www.nasscal.com/manuscripta-apocryphorum/mosul-mar-behnam-monastery-sony-20/,
+131,Iraq,Mosul,Syriac,,Mar Behnam Monastery,Sony 403,,,,http://www.nasscal.com/manuscripta-apocryphorum/mosul-mar-behnam-monastery-sony-403/,
+132,Iraq,Mosul,Syriac,,Syrian Orthodox Archdiocese,264,,,,http://www.nasscal.com/manuscripta-apocryphorum/mosul-syrian-orthodox-archdiocese-of-mosul-264/,
+133,Iraq,Mosul,Gar__n_,,Syrian Orthodox Archdiocese,208,,,,http://www.nasscal.com/manuscripta-apocryphorum/mosul-syrian-orthodox-archdiocese-of-mosul-208/,
+134,Israel,Jerusalem,Greek,,Bibliotheke tou Patriarcheiou,Hagios Saba 259,,,,http://www.nasscal.com/manuscripta-apocryphorum/jerusalem-bibliotheke-tou-patriarcheiou-hagios-saba-259/,
+135,Israel,Jerusalem,Greek,,Patriarchik_ biblioth_k_,Panagios Taphos gr. 66,,,,http://www.nasscal.com/manuscripta-apocryphorum/jerusalem-patriarchike-bibliotheke-panagios-taphos-66/,
+136,Lebanon,Charfeh,Syriac,,Syrian-Catholic Patriarchate,Fonds Rahmani 42,,,,http://www.nasscal.com/manuscripta-apocryphorum/charfet-syrian-catholic-patriarchate-fonds-rahmani-42/,
+137,Lebanon,Charfeh,Syriac,,Syrian-Catholic Patriarchate,Fonds Rahmani 60,,,,http://www.nasscal.com/manuscripta-apocryphorum/charfet-syrian-catholic-patriarchate-fonds-rahmani-60/,
+138,Syria,Aleppo,unlisted,,Syriac Orthodox Archdiocese,7077,,,,http://www.nasscal.com/manuscripta-apocryphorum/aleppo-syriac-orthodox-archdiocese-7077/,
+139,Turkey,Diyarbakir,Syriac,,Meryem Ana Syriac Orthodox Church,130; 7/12,,,,http://www.nasscal.com/manuscripta-apocryphorum/diyarbakir-meryem-ana-syriac-orthodox-church-130-712/,
+140,Turkey,Diyarbakir,Gar__n_,,Meryem Ana Syriac Orthodox Church,243,,,,http://www.nasscal.com/manuscripta-apocryphorum/diyarbakir-meryem-ana-syriac-orthodox-church-243/,
+141,Turkey,Mardin,Syriac,,Chaldean Cathedral,5,,,,http://www.nasscal.com/manuscripta-apocryphorum/mardin-chaldean-cathedral-5/,
+142,Turkey,Mardin,Syriac,,Church of the Forty Martyrs,101,,,,http://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-101/,
+143,Turkey,Mardin,Syriac,,Church of the Forty Martyrs,263,,,,http://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-263/,
+144,Turkey,Mardin,Syriac,,Church of the Forty Martyrs,265,,,,http://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-265/,
+145,Turkey,Mardin,Syriac,,Church of the Forty Martyrs,281,,,,http://www.nasscal.com/manuscripta-apocryphorum/mardin-church-of-the-forty-martyrs-281/,
+146,Turkey,Mardin,Syriac,,Deir al-Zafaran,393,,,,http://www.nasscal.com/manuscripta-apocryphorum/mardin-deir-al-zafaran-393/,
+147,United States of America,"Cambridge, Mass.",Coptic,,Harvard Houghton Library,MS Coptic 11,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-ms-coptic-11/,
+148,United States of America,"Cambridge, Mass.",Latin,,Harvard Houghton Library,Lat. 117,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-lat-117/,
+149,United States of America,"Cambridge, Mass.",Syriac,,Harvard Houghton Library,Syr. 35,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-35/,
+150,United States of America,"Cambridge, Mass.",Syriac,,Harvard Houghton Library,Syr. 36,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-houghton-library-syr-36/,
+151,United States of America,"Cambridge, Mass.",Syriac,,Harvard Houghton Library,Syr. 39,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-39/,
+152,United States of America,"Cambridge, Mass.",Syriac,,Harvard Houghton Library,Syr. 59,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-59/,
+153,United States of America,"Cambridge, Mass.",Syriac,,Harvard Houghton Library,Syr. 82,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-82/,
+154,United States of America,"Cambridge, Mass.",Syriac,,Harvard Houghton Library,Syr. 93,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-93/,
+155,United States of America,"Cambridge, Mass.",Syriac,,Harvard Houghton Library,Syr. 129,,,,http://www.nasscal.com/manuscripta-apocryphorum/cambridge-mass-harvard-houghton-library-syr-129/,
+156,United States of America,New Haven,Latin,,Beinecke Rare Book and Manuscript Library,Marston 49,,,,http://www.nasscal.com/manuscripta-apocryphorum/new-haven-beinecke-rare-book-and-manuscript-library-marston-49/,https://brbl-dl.library.yale.edu/vufind/
+157,United States of America,New York City,Coptic,,Morgan Library and Museum,M593,,,,http://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m593/,http://www.themorgan.org/manuscripts/lis
+158,United States of America,New York City,Coptic,,Morgan Library and Museum,M610,,,,http://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m610/,http://www.themorgan.org/manuscripts/lis
+159,United States of America,New York City,Coptic,,Morgan Library and Museum,M614,,,,http://www.nasscal.com/manuscripta-apocryphorum/new-york-morgan-library-and-museum-m614/,http://www.themorgan.org/manuscripts/lis
+160,United States of America,"Washington, D.C.",unlisted,,Smithsonian Freer Gallery of Art,6.274,,,,http://www.nasscal.com/manuscripta-apocryphorum/washington-d-c-smithsonian-freer-gallery-of-art-06-274/,
+,,,,,,,,,,,
+0,Egypt,Red Sea Coast,,,"Dayr al-Anba Antunyus, Egypt (Monastery of St. Anthony)",,,,,,
+0,Egypt,Wadi al-Natrun,,,"Dayr al-Sury_n, Wadi al-Natrun, Egypt (“Monastery of the Syrians”)",,,,,,
+0,Egypt,,,,Franciscan Center for Oriental Christian Studies,,,,,,
+0,Italy,Florence,,,,,,,,,
+0,Netherlands,Leiden,,,,,,,,,
+0,Germany,Leipzig,,,,,,,,,
+0,Germany,Münster,,,,,,,,,
+0,United Kingdom,Oxford,,,Bodleian,,,,,,
+0,,Paderborn,,,,,,,,,
+0,Iraq,‘Aqra,,,,,,,,,
+0,Iraq,Kirkuk,,,,,,,,,
+0,Jordan,Beirut,,,,,,,,,
+0,Russia,Saint Petersburg,,,,,,,,,
+0,Syria,Damascus,,,,,,,,,
+0,Turkey,Alqosh,,,Notre-Dame-des-Semences,,,,,,
+0,Turkey,Seert,,,,,,,,,
+0,Turkey,Urmia,,,Oroomiah College,,,,,,
+0,United States of America,Chicago,,,,,,,,,
+0,United States of America,Princeton,,,,,,,,,
